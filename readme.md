@@ -10,3 +10,5 @@ update 202402
 more code for more contribution!
 
 test for readme file
+
+plan to study the solidity programing
